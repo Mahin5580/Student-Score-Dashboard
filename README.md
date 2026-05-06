@@ -1,6 +1,6 @@
 # Student Performance Analysis 📊
 
-An exploratory data analysis (EDA) project using Microsoft Excel to identify 
+Data analysis and visualization project using Microsoft Excel to identify 
 factors that influence student exam performance across 200 students.
 
 ## Overview
